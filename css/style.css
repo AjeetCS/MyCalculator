@@ -1,0 +1,24 @@
+#back_color {
+    position: fixed;
+    background-color: red;
+    min-height: 50vw;
+    width: 100%;
+    clip-path: polygon(0 0, 100% 0%, 0 100%, 0% 100%);
+    clip-path: polygon(0 0, 100% 0%, 0 100%, 0% 100%);
+}
+
+#back_color1 {
+    position: fixed;
+    background-color: yellow;
+    min-height: 50vw;
+    width: 100%;
+    clip-path: polygon(0 0, 100% 0%, 0 100%, 0% 100%);
+    rotate: 180deg;
+}
+#over_0{
+    position: relative;
+}
+#tb_0 button,
+        #input {
+            font-size: 20px;
+        }
